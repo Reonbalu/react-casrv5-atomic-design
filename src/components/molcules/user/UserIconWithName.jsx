@@ -36,8 +36,6 @@ const SImg = styled.img`
     background: #fff;
     transform: scale(1.5, 1.5);
     box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
-    -moz-box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
   }
 `;
 
